@@ -53,12 +53,12 @@ public class Test {
 }
 /* @DEV JAVA ZEBS       
  * Page site
- * 28/11/2022
+ * 24/12/2022
  * @author          NGUENA ZEBS HAUPUR FAUST
- * @uri 			https://github.com/PILOTEZEBS
+ * @uri 	    pilotezebs.com
  * @copyright       Copyright (c) 2022 NGUENA ZEBS HAUPUR FAUST
  * @license         My Login is licensed under the ECLIPSE license.
- * @github          https://github.com/PILOTEZEBS
+ * @github          https://github.com/NGUENAZEBS
  * @version         1.0.1 USJ
  * Help me to keep this project
  *https://ko-fi.com/pilotezebs
