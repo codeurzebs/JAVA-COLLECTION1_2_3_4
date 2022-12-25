@@ -9,3 +9,4 @@ Download PDF Exercise : <a href="https://raw.githubusercontent.com/NGUENAZEBS/JA
 ## EXERCISE 3: <a href="https://github.com/NGUENAZEBS/JAVA-COLLECTION1_2_3_4/tree/main/src/main/java/com/nguenazebs/exercise3">Solution 3</a>
 ## EXERCISE 4: <a href="https://github.com/NGUENAZEBS/JAVA-COLLECTION1_2_3_4/blob/main/src/main/java/com/nguenazebs/exercise4/Test.java">Solution 4</a>
 
+<a href="https://github.com/NGUENAZEBS/JAVA-COLLECTION1_2_3_4"><img src="https://raw.githubusercontent.com/NGUENAZEBS/JAVA-COLLECTION1_2_3_4/f41703d3f128da4f1945b0ca90d0e1a901624eab/.github/workflows/Private/statpilotezebs.svg"/></a>
