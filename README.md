@@ -1,4 +1,4 @@
-## ✔ JAVA-COLLECTION1_2_3_4
+## ✔ JAVA-COLLECTION1_2_3_4 Licence 2 @CodeurZEBS
 <a href="https://github.com/NGUENAZEBS/JAVA-COLLECTION1_2_3_4/discussions">🖐Let's discuss here</a></br></br>
 Download PDF Exercise : <a href="https://raw.githubusercontent.com/NGUENAZEBS/JAVA-COLLECTION1_2_3_4/a232806210a63d38a2eb253b305b84bf6f603858/TD%23Collection.pdf">TD#Collection.pdf</a>
 
